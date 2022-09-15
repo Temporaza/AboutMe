@@ -1,0 +1,125 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #222233;
+    color: #aaccff;
+   
+}
+
+img{
+    border: 5px solid black;
+    border-radius: 10%;
+}
+
+.img figcaption {
+    font-size: 20px;
+    font-weight: 900;
+    
+}
+
+p, h1, h2, a{
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+ul, ol{
+    
+    text-align: left;
+    font-size: 25px;
+}
+
+legend {
+    font-size: 30px;
+}
+
+.footer{
+    text-align: center;
+    margin-bottom: -300px;
+}
+
+#foot{
+    margin-left: 23%;
+}
+
+#foot a{
+    margin-left: 30%;
+}
+
+fieldset{
+    border: 0 none;
+}
+
+legend{
+    text-align: center;
+}
+
+.sect{
+    float: left;
+    width: 50%;
+    padding: 40px;
+    height: 300px;
+    border: 0 none;
+    
+}
+
+.list {
+    text-align: center;
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 28%;
+    
+}
+
+.sect2{
+    float: left;
+    width: 30%;
+    padding: 40px;
+    height: 300px;
+    border: 0 none;
+    
+}
+
+.list2 {
+    text-align: center;
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 20%;
+}
+
+.sect3{
+    float: left;
+    width: 46%;
+    padding: 40px;
+    height: 300px;
+    border: 0 none;
+}
+
+.list3 {
+    text-align: center;
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 30%;
+}
+
+.sect4{
+    float: left;
+    width: 37%;
+    padding: 40px;
+    height: 300px;
+    border: 0 none;
+}
+
+.list4 {
+    text-align: center;
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 28%;
+}
+
+#foot{
+     float: left;
+    width: 50%;
+    padding: 40px;
+    height: 300px;
+    border: 0 none;
+}
